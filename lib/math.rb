@@ -15,9 +15,9 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-
+  (num1/num2).round_down(0)
 end
 
 def square_root(num)
-
+  Math.sin(num)
 end
